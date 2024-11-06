@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SaintMichel.Services
 {
-    public class ServiceSibra
+    public class ServiceSibra 
     {
     }  
 }  
